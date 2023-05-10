@@ -12,6 +12,7 @@
         body{
             background:rgb(43, 43, 43);
             color: white;
+            text-align: center;
         }
         img{
             
@@ -19,22 +20,40 @@
         p{
             font-size: 160%;
         }
+        button {
+            height: 48px;
+            width: 120px;
+            border-radius: 4px;
+            border: 0;
+            background: #33524f;
+            box-shadow: 0 3px 3px black;
+        }
+        
+        button:hover {
+            background: #213332;
+            margin-top: 3px;
+        }
+
+        .btn-text {
+            font-size: 24px;
+            color: #fff;
+            text-shadow: 2px 2px #181860
+        }
     </style>
 </head>
 <body>
-    <div style="text-align: center">
+    <div>
         <p>
             zipバージョン
-            
         </p>
-        <a href="./download/1.3.3.zip"><img id = img src="./img/zip.png" alt="download ZIP" vspace="20"></a>
+        <a href="./download/1.3.3.zip"><button><span class="btn-text">zip</span></button></a>
         <p>
             msiバージョン
         </p>
     </div>
    
     <div style="text-align: center;">
-        <a href="./download/1.3.3.msi"><img src="./img/msi.png" alt=""></a>
+        <a href="./download/1.3.3.msi"><button><span class="btn-text">msi</span></button></a>
     </div>
 </body>
 </html>
