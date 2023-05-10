@@ -1,5 +1,5 @@
 header{
-    background-color: #0d4185;
+    background-color: #3c7537;
     text-align: center;
 }
 body {
@@ -35,7 +35,7 @@ a {
     font-size: 70%;
 }
 footer {
-    background :#0d4185;
+    background :#3c7537;
 }
 h2::before, h3::before {
     content: '･';
