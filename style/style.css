@@ -1,13 +1,14 @@
 header{
     background-color: #9243a152;
     text-align: center;
-    backgroud-image url("C:\Users\a2211\Downloads\result.png")
-    backgrout-repeat: repeat
+    
 }
 body {
     margin: 0px;
     background-color: rgb(43,43,43);
     color: white;
+    backgroud-image url("C:\Users\a2211\Downloads\result.png")
+    backgrout-repeat: repeat
   }
   main {
     margin: 5px 10px;
