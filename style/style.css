@@ -4,12 +4,16 @@ header{
     
 }
 body {
-    margin: 0px;
+    margin:0px;
     background-color: rgb(43,43,43);
-    color: white;
+    color: rgb(255, 255, 255);
   }
   main {
     margin: 5px 10px;
+    
+  }
+  p{
+    padding-left: 30px;
   }
 
 h1 {
@@ -26,18 +30,22 @@ h2{
 h4{
     font-size: 130%;
     color: burlywood;
+    padding-left: 20px;
 }
 a {
     font-size: larger;
     color: lightskyblue;
+    
 }
 
 .font-large {
     font-size: large;
+    padding-left: 30px;
 }
 
 .font-small {
     font-size: 70%;
+    padding-left: 30px;
 }
 footer {
     background :#000000;
@@ -51,4 +59,5 @@ h2::before, h3::before {
 }
 h5{
     font-size: 130%;
+    padding-left: 20px;
 }
