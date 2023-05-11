@@ -1,6 +1,8 @@
 header{
     background-color: #9243a152;
     text-align: center;
+    backgroud-image url("C:\Users\a2211\Downloads\result.png")
+    backgrout-repeat: repeat
 }
 body {
     margin: 0px;
