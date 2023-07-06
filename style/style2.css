@@ -1,0 +1,131 @@
+.head {
+    text-align: right;
+}
+
+.head a {
+    margin-right: 12px;
+}
+
+body {
+    width: auto;
+    margin: auto;
+    background-color: rgb(40, 40, 40);
+    color: white;
+    display: block;
+    margin: auto;
+}
+
+h1 {
+    display: block;
+    text-align: center;
+    color: yellowgreen;
+    margin-top: 100px;
+}
+.member li{
+    width: 150px;
+    display: block;
+    margin: auto;
+    font-size: 150%;
+}
+h2 {
+    display: block;
+    text-align: center;
+    color: chocolate
+}
+
+p {
+    width: 400px;
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+
+.head {
+    background-color: blue;
+    height: 30px;
+}
+
+div.top main {
+    display: block;
+    margin: auto;
+}
+
+div.main img {
+    display: block;
+    margin: auto;
+    width: 100px;
+    margin-bottom: 20px;
+}
+div.link {
+    display: block;
+    margin: auto;
+
+}
+
+.head a {
+    color: white;
+}
+
+div#image {
+    width: 500px;
+    height: 86px;
+    display: block;
+    margin: auto;
+    padding-left: 5%;
+}
+
+.sns {
+
+    display: block;
+    text-align: center;
+    margin: auto;
+}
+
+#sns a:hover {
+    opacity: 0.56;
+}
+
+div#twitter img {
+    width: 80px;
+    float: left;
+    margin-left: 23px;
+}
+
+div#youtube img {
+    width: 80px;
+    float: left;
+    margin-left: 23px;
+}
+
+div#misskey img {
+    width: 70px;
+    float: left;
+    margin-left: 23px;
+}
+
+div#threads img {
+    width: 80px;
+    float: left;
+    margin-left: 23px;
+}
+div.download{
+    display: block;
+    margin: auto;
+}
+a{
+    color: aqua;
+}
+div#YT{
+    padding-top: 120px;
+}
+div#YTL{
+    padding-top: 120px;
+}
+div#mac{
+    padding-top: 120px;
+}
+footer
+{
+    background-color: blue;
+    text-align: center;
+}
